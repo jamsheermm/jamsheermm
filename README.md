@@ -13,10 +13,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jamsheermm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamsheermm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Gif](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Gif](https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jamsheermm&icon=0&color=0)](https://visitcount.itsvg.in)
