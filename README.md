@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @jamsheermm<br>👀 I’m interested in Flutter|Dart|Android|iOS<br>🌱 I’m currently learning Swift/iOS<br>💞️ I’m looking to collaborate on Flutter projects<br>📫 How to reach me jamsheermoidu@gmail.com
 
+![Banner Image](https://media.licdn.com/dms/image/C5616AQGSpoDEuZQa_Q/profile-displaybackgroundimage-shrink_350_1400/0/1632378447656?e=1696464000&v=beta&t=UeYFTDx54v95L9i9F-9jU4F_ba1J9srJqRigxJ52xms)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamsheer-moidu/) 
